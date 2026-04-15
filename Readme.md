@@ -24,6 +24,12 @@ A **database** is an organized collection of structured data stored in tables ma
 
 SQL (Structured Query Language) is the standard language for managing and manipulating relational databases. SQL commands are grouped into 5 main types:
 
+<p align="center">
+  <img src= "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*6TN3iYNlerAnPqXq.png"
+       alt="SQL Server Sample Database" 
+       width="600"/>
+</p>
+
 | Type | Full Name | Purpose |
 |------|-----------|---------|
 | DDL | Data Definition Language | Create, alter, drop database objects |
@@ -62,6 +68,12 @@ DROP DATABASE database_name;
 ### Schema
 
 A **schema** is a logical grouping that organizes tables and defines their relationships.
+
+<p align="center">
+  <img src= "https://www.sqlservertutorial.net/wp-content/uploads/SQL-Server-Sample-Database.png"
+       alt="SQL Server Sample Database" 
+       width="600"/>
+</p>
 
 ```sql
 -- Create a schema
@@ -328,6 +340,12 @@ FROM financials;
 ## 9. SQL Joins
 
 Joins combine rows from two or more tables based on a related column.
+
+<p align="center">
+  <img src= "https://i.ytimg.com/vi/Yh4CrPHVBdE/maxresdefault.jpg"
+       alt="SQL Server Sample Database" 
+       width="600"/>
+</p>
 
 ### 9.1 INNER JOIN
 
